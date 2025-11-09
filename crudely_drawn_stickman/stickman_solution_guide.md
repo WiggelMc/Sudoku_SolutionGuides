@@ -208,7 +208,7 @@ The last remaining digits are 'C' and 'E'.<br>
 
 Now with the digits assigned, the puzzle is solved.<br>
 I have seen and explored other paths, that make use of the thermometers early to narrow down options for a letter.<br>
-Most of the paths I found, do not require any recognition of existing combinations.<br>
+Most of the paths I found, do not require any scanning for unique combinations.<br>
 Solving the puzzle does not require even one step like this:
 ```
 This cell cannot be an F, because it would make this row ABCF, but this other line already is ABCF.
