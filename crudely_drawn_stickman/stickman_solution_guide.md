@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="styles.css">
-<div style="page-break-after: always;"></div>
+<div class="page-br"></div>
 
 # Crudely Drawn Stickman
 by Wiggel
@@ -10,7 +10,7 @@ by Wiggel
 
 <img src="assets/group_counts.png" width="256"/>
 
-<div style="page-break-after: always;"></div>
+<div class="page-br"></div>
 
 ### A and B
 
@@ -19,7 +19,7 @@ by Wiggel
 <img src="assets/step_b1.png" width="256"/>
 <img src="assets/step_b2.png" width="256"/>
 
-<div style="page-break-after: always;"></div>
+<div class="page-br"></div>
 
 ### C and D
 
@@ -31,7 +31,7 @@ by Wiggel
 <img src="assets/step_d3.png" width="256"/>
 <img src="assets/step_d4.png" width="256"/>
 
-<div style="page-break-after: always;"></div>
+<div class="page-br"></div>
 
 ### E and F
 
@@ -43,7 +43,7 @@ by Wiggel
 <img src="assets/step_r2.png" width="256"/>
 <img src="assets/step_r3.png" width="256"/>
 
-<div style="page-break-after: always;"></div>
+<div class="page-br"></div>
 
 ### Assigning Digits
 

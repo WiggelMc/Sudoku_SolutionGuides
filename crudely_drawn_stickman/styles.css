@@ -1,4 +1,7 @@
 body {
-    font-family: Garamond, sans-serif;
-    
+  font-family: Garamond, sans-serif; 
+}
+
+.page-br {
+  page-break-after: always;
 }
