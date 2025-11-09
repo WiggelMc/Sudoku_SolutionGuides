@@ -60,7 +60,7 @@ To add up to 10, we need to place the other 'A' into a purple cell.
 <br><br>
 
 The same can be done with the other red cell.<br>
-We place a digit 'B', and we need another B in a purple cell.
+We place a digit 'B', and we need another 'B' in a purple cell.
 
 <img src="assets/step_b1.png" width="256"/>
 <img src="assets/step_b2.png" width="256"/>
@@ -110,15 +110,19 @@ Because we know that each digit appears 3 times in the grid, there are only 2 po
 [0, 1, 2]
 ```
 
-Let use place a digit 'C' into one of those two purple cells.<br>
+<div class="page-br"></div>
+
+Let us place a digit 'C' into one of those two purple cells.<br>
 We now need to place one 'C' each into a white and a green cell.<br>
 We cannot place 'C' into the top white cell, because then both placed 'C's would be part of 4 groups globally.<br>
 We know that the global composition is [3, 3, 4], so that doesn't work.<br>
-So we place 'C' into the bottom  white cell, which narrows down the 'C' in green.
+So we place 'C' into the bottom white cell, which narrows down the 'C' in green.
 
 <img src="assets/step_c1.png" width="256"/>
 <img src="assets/step_c2.png" width="256"/>
 <br><br>
+
+<div class="page-br"></div>
 
 The same can be done with the other purple cell.<br>
 We place a digit 'D', and see that this is not narrowed down that much.<br>
@@ -153,6 +157,8 @@ We put 'E' into that cell, and can already propagate 2 'F's.<br>
 <img src="assets/step_ef2.png" width="256"/>
 <br><br>
 
+<div class="page-br"></div>
+
 With those 'F's, we can also place another 'E'.
 
 <img src="assets/step_ef3.png" width="256"/>
@@ -184,6 +190,8 @@ Now we can use the Thermometers to assign the actual digits from 1-6.<br>
 <img src="assets/step_rn2.png" width="256"/>
 <br><br>
 
+<div class="page-br"></div>
+
 The two digits greater than 4 are 'D' and 'F'.<br>
 On the short thermo, 'D' is before 'F', so 'D' is '5' and 'F' is '6'.
 
@@ -192,16 +200,18 @@ On the short thermo, 'D' is before 'F', so 'D' is '5' and 'F' is '6'.
 <br><br>
 
 The last remaining digits are 'C' and 'E'.<br>
-'C' is before 'E', so 'E' must be '3' and 'C' must be '2'.
+'E' is after 'C', so 'E' must be '3' and 'C' must be '2'.
 
 <img src="assets/step_rn5.png" width="256"/>
 <img src="assets/step_rn6.png" width="256"/>
 <br><br>
 
-With that the puzzle is solved. I have seen and explored other paths, that make use of the thermometers early to narrow down options for a letter.<br>
-This is the cleanest path I found, because it does not require any recognition of existing combinations.<br>
+Now with the digits assigned, the puzzle is solved.<br>
+I have seen and explored other paths, that make use of the thermometers early to narrow down options for a letter.<br>
+Most of the paths I found, do not require any recognition of existing combinations.<br>
 Solving the puzzle does not require even one step like this:
 ```
 This cell cannot be an F, because it would make this row ABCF, but this other line already is ABCF.
 ```
+Because I received comments, that hinted at people still using such steps, and rightfully finding them too tedious, I included a disclaimer in the rules.
 
