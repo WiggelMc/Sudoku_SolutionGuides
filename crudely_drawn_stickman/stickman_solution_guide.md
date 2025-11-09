@@ -1,10 +1,4 @@
-
-<style>
-    body {
-        font-family: Garamond, sans-serif;
-    }
-</style>
-
+<link rel="stylesheet" href="styles.css">
 <div style="page-break-after: always;"></div>
 
 # Crudely Drawn Stickman
