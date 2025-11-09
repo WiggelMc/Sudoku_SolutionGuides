@@ -5,3 +5,8 @@ body {
 .page-br {
   page-break-after: always;
 }
+
+code {
+  margin-left: 10%;
+  display: block;
+}

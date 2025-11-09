@@ -8,7 +8,40 @@ by Wiggel
 
 ### Expected Deductions
 
+There are 15 possible sets of 4 digits from 1-6.
+```
+Number of sets
+= 6 choose 4
+= 15
+```
+
+There are 15 groups in the puzzle that need unique sets, meaning all possible sets are used.
+```
+Total Groups
+= 4 Rows + 4 Columns + 2 Diagonals + 5 Black Lines
+= 15
+```
+
+<div class="page-br"></div>
+
+Each Digit must appear in exactly 10 groups.
+```
+Groups, that digit X appears in
+= 15 - Groups, that digit X doesn't appear in
+= 15 - (5 choose 4)
+= 15 - 5
+= 10
+```
+
+Here are all cells, with the number of groups they are a part of.
+
 <img src="assets/group_counts.png" width="256"/>
+
+All Cells on the grid are either part of 3, 4, or 6 groups, that narrows down the possible ways for them to sum to 10. There are only 2 possibilities.
+```
+[3, 3, 4]
+[4, 6]
+```
 
 <div class="page-br"></div>
 
