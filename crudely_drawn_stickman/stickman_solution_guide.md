@@ -45,7 +45,7 @@ All Cells on the grid are either part of 3, 4, or 6 groups, that narrows down th
 
 <div class="page-br"></div>
 
-### The Breakin
+### The Break-in
 
 The two red cells each are part of 6 groups. <br>
 We can conclude that they must pair up with a cell, thats part of 4 groups.<br>
@@ -120,65 +120,88 @@ So we place 'C' into the bottom  white cell, which narrows down the 'C' in green
 <img src="assets/step_c2.png" width="256"/>
 <br><br>
 
-TODO
+The same can be done with the other purple cell.<br>
+We place a digit 'D', and see that this is not narrowed down that much.<br>
+But because we did 'C' first, we now only have one white cell left to place 'D' in.
 
 <img src="assets/step_d1.png" width="256"/>
 <img src="assets/step_d2.png" width="256"/>
+<br><br>
+
+With the white 'D' placed, the green 'D' must be in one of two places.
+
 <img src="assets/step_d3.png" width="256"/>
 <img src="assets/step_d4.png" width="256"/>
 <br><br>
 
-TODO
+We have now placed almost all instances of 'A', 'B', 'C' and 'D'.<br>
+Only the position of one 'D' is still ambiguous.
 
 <div class="page-br"></div>
 
-### E and F
+### The last 2 Digits
 
-TODO
+Because we know, that all unmarked cells cannot contain any digit from 'A', 'B', 'C' and 'D', we can mark their possibilities.
 
 <img src="assets/positions_ef.png" width="256"/>
+<br><br>
 
-TODO
+We start by taking an 'EF' cell, which sees two other 'EF' cells.<br>
+We put 'E' into that cell, and can already propagate 2 'F's.<br>
 
 <img src="assets/step_ef1.png" width="256"/>
 <img src="assets/step_ef2.png" width="256"/>
+<br><br>
+
+With those 'F's, we can also place another 'E'.
+
 <img src="assets/step_ef3.png" width="256"/>
 <br><br>
 
-TODO
+Now we already have 'E' and 'F' in Row 4, so the last option for R4C2 is a 'D'.
 
 <img src="assets/step_r1.png" width="256"/>
+<br><br>
+
+After placing the last 'D', all other cells must be 'E' or 'F', which are immediately resolved.
+
 <img src="assets/step_r2.png" width="256"/>
 <img src="assets/step_r3.png" width="256"/>
 <br><br>
-
-TODO
 
 <div class="page-br"></div>
 
 ### Assigning Digits
 
-TODO
+Now we can use the Thermometers to assign the actual digits from 1-6.<br>
+'A' is before all other digits on the thermos, so it must be '1'.
 
 <img src="assets/step_rn1.png" width="256"/>
 <br><br>
 
-TODO
+'B' has 3 different digits before it and 2 after it, so it must be '4'.
 
 <img src="assets/step_rn2.png" width="256"/>
 <br><br>
 
-TODO
+The two digits greater than 4 are 'D' and 'F'.<br>
+On the short thermo, 'D' is before 'F', so 'D' is '5' and 'F' is '6'.
 
 <img src="assets/step_rn3.png" width="256"/>
 <img src="assets/step_rn4.png" width="256"/>
 <br><br>
 
-TODO
+The last remaining digits are 'C' and 'E'.<br>
+'C' is before 'E', so 'E' must be '3' and 'C' must be '2'.
 
 <img src="assets/step_rn5.png" width="256"/>
 <img src="assets/step_rn6.png" width="256"/>
 <br><br>
 
-TODO
+With that the puzzle is solved. I have seen and explored other paths, that make use of the thermometers early to narrow down options for a letter.<br>
+This is the cleanest path I found, because it does not require any recognition of existing combinations.<br>
+Solving the puzzle does not require one step like this:
+```
+This cannot be 'F' because it would make two sets of ABCF.
+```
 
