@@ -8,6 +8,8 @@ by Wiggel
 
 ### Rules
 
+<a href="https://sudokupad.app/y5cht7ravv">Solve on SudokuPad</a> (<a href="https://sudokupad.app/fd2iaie9zh">Colored Version</a>)
+
 <img src="assets/puzzle.png" width="320" />
 <br><br>
 
