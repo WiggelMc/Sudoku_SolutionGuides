@@ -6,6 +6,25 @@ by Wiggel
 
 ## Solution Guide
 
+### Rules
+
+<img src="assets/puzzle.png" width="320" />
+<br><br>
+
+- Normal sudoku rules do NOT apply.
+
+- Fill every cell in the grid with digits from 1 to 6.
+
+- Digits on a thermometer strictly increase from the bulb to the tip.
+
+- Each row, column, black line and both of the main diagonals all contain a UNIQUE set of 4 non-repeating digits. (Eg. No two groups can have the same composition of digits, and no digit can repeat within a group.)
+
+- All black lines are 4 cells long and pass through the center of all affected cells. One line is thicker to make it easier to distinguish.
+
+- Scanning for unique sets in the grid is NOT required.
+
+<div class="page-br"></div>
+
 ### Initial Deductions
 
 There are 15 possible sets of 4 digits from 1-6.
@@ -206,12 +225,4 @@ The last remaining digits are 'C' and 'E'.<br>
 <img src="assets/step_rn6.png" width="256"/>
 <br><br>
 
-Now with the digits assigned, the puzzle is solved.<br>
-I have seen and explored other paths, that make use of the thermometers early to narrow down options for a letter.<br>
-Most of the paths I found, do not require any scanning for unique combinations.<br>
-Solving the puzzle does not require even one step like this:
-```
-This cell cannot be an F, because it would make this row ABCF, but this other line already is ABCF.
-```
-Because I received comments, that hinted at people still using such steps, and rightfully finding them too tedious, I included a disclaimer in the rules.
-
+Now with the digits assigned, the puzzle is solved.
