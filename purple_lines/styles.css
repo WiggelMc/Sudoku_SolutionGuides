@@ -1,0 +1,12 @@
+body {
+  font-family: Garamond, sans-serif; 
+}
+
+.page-br {
+  page-break-after: always;
+}
+
+code {
+  margin-left: 10%;
+  display: block;
+}
