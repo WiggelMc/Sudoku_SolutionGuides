@@ -38,6 +38,8 @@ At the same time! Good thing I remembered that.
 Now that I'm done explaining the rules, I have to get going.
 I really hope the rules will help you with solving the puzzle.
 
+<br><br>
+
 <div class="page-br"></div>
 
 ### Spoiler Warning
@@ -178,3 +180,6 @@ I think this a necessary step to make a twist work properly. The solver needs to
 
 I needed some filler text to make sure the twist will not be guessed. That is why I talk about Renbans before actually explaining what purple lines do.
 I did not want that diversion to be fully useless, that's why I added the non-Renban constraint, that is needed to disambiguate a deadly pattern.
+
+The reason I chose red and blue as line colors, is purely to have them merge into purple at the end.
+The fog only ever reveals entire lines, because I do not want the solver to draw cosmetic lines along the lines, as that would make the twist either more or less obvious, depending on the solver.
