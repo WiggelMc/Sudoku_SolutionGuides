@@ -38,12 +38,16 @@ At the same time! Good thing I remembered that.
 Now that I'm done explaining the rules, I have to get going.
 I really hope the rules will help you with solving the puzzle.
 
+<div class="page-br"></div>
+
 ### Spoiler Warning
 
 If you have not played the puzzle before, I implore you to do so before you read this guide.<br>
 The puzzle is not very hard and the solution guide does the process of solving it a disservice.<br>
 
 You have been warned.
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <div class="page-br"></div>
 
@@ -162,3 +166,15 @@ It can also be resolved earlier by those who have noticed the hidden rule in the
 <br><br>
 <img src="assets/u2.png" width="512"/>
 <br><br>
+
+<div class="page-br"></div>
+
+### Stylistic Decisions
+
+The reason, the rules are worded a lot more casually than usual, is to make the solver less sure about the rules.
+The ending paragraph is especially useful, because it contains no information, similarly to how 'Foggy on the Details' by ThePedalingPianist and juggler did it.
+
+I think this a necessary step to make a twist work properly. The solver needs to be in the correct headspace for that.
+
+I needed some filler text to make sure the twist will not be guessed. That is why I talk about Renbans before actually explaining what purple lines do.
+I did not want that diversion to be fully useless, that's why I added the non-Renban constraint, that is needed to disambiguate a deadly pattern.
