@@ -125,57 +125,57 @@ by Wiggel
 - TODO
 
 <p>
-<img src="assets/c3.png" width="300"/>
-<img src="assets/c4.png" width="300"/>
+<img src="assets/c3.png" width="400"/>
+<img src="assets/c4.png" width="400"/>
 </p>
 <br><br>
 <p>
-<img src="assets/c5.png" width="300"/>
-<img src="assets/c6.png" width="300"/>
+<img src="assets/c5.png" width="400"/>
+<img src="assets/c6.png" width="400"/>
 </p>
 <br><br>
 <p>
-<img src="assets/c7.png" width="300"/>
-<img src="assets/c8.png" width="300"/>
+<img src="assets/c7.png" width="400"/>
+<img src="assets/c8.png" width="400"/>
 </p>
 <br><br>
 <p>
-<img src="assets/c9.png" width="300"/>
-<img src="assets/c10.png" width="300"/>
+<img src="assets/c9.png" width="400"/>
+<img src="assets/c10.png" width="400"/>
 </p>
 <br><br>
 <p>
-<img src="assets/d1.png" width="300"/>
-<img src="assets/d2.png" width="300"/>
+<img src="assets/d1.png" width="400"/>
+<img src="assets/d2.png" width="400"/>
 </p>
 <br><br>
 <p>
-<img src="assets/d3.png" width="300"/>
-<img src="assets/d4.png" width="300"/>
+<img src="assets/d3.png" width="400"/>
+<img src="assets/d4.png" width="400"/>
 </p>
 <br><br>
 <p>
-<img src="assets/d5.png" width="300"/>
-<img src="assets/d6.png" width="300"/>
+<img src="assets/d5.png" width="400"/>
+<img src="assets/d6.png" width="400"/>
 </p>
 <br><br>
 <p>
-<img src="assets/d7.png" width="300"/>
-<img src="assets/d8.png" width="300"/>
+<img src="assets/d7.png" width="400"/>
+<img src="assets/d8.png" width="400"/>
 </p>
 <br><br>
 <div class="page-br"></div>
 
 - TODO
 
-<img src="assets/d9.png" width="300"/>
-<img src="assets/d10.png" width="300"/>
+<img src="assets/d9.png" width="400"/>
+<img src="assets/d10.png" width="400"/>
 <br><br>
-<img src="assets/d11.png" width="300"/>
-<img src="assets/d12.png" width="300"/>
+<img src="assets/d11.png" width="400"/>
+<img src="assets/d12.png" width="400"/>
 <br><br>
-<img src="assets/d13.png" width="300"/>
-<img src="assets/d14.png" width="300"/>
+<img src="assets/d13.png" width="400"/>
+<img src="assets/d14.png" width="400"/>
 <br><br>
 
 ### Assigning Digits
