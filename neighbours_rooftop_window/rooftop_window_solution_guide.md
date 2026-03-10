@@ -19,7 +19,7 @@ by Wiggel
 - Place the digits 1 to 9 once each in every row and column of the grid and once each into the circles of the cube.
 
 - Reserved Neighbours: Digits in the grid may only be orthogonally adjacent, if they share an edge on the cube.
-(Eg. If R1C1 contained a 1, and R1C2 a 2, then 1 and 2 would need to be connected on the cube, for example in R10C13 and R11C14.)
+  (Eg. If R1C1 contained a 1, and R1C2 a 2, then 1 and 2 would need to be connected on the cube, for example in R10C13 and R11C14.)
 
 - Arrows: Digits along an arrow sum to the number in the attached circle. Cells outside the grid are empty and do not count towards that sum.
 
@@ -124,30 +124,47 @@ by Wiggel
 
 - TODO
 
+<p>
 <img src="assets/c3.png" width="300"/>
 <img src="assets/c4.png" width="300"/>
+</p>
 <br><br>
+<p>
 <img src="assets/c5.png" width="300"/>
 <img src="assets/c6.png" width="300"/>
+</p>
 <br><br>
+<p>
 <img src="assets/c7.png" width="300"/>
 <img src="assets/c8.png" width="300"/>
+</p>
 <br><br>
+<p>
 <img src="assets/c9.png" width="300"/>
 <img src="assets/c10.png" width="300"/>
+</p>
 <br><br>
+<p>
 <img src="assets/d1.png" width="300"/>
 <img src="assets/d2.png" width="300"/>
+</p>
 <br><br>
+<p>
 <img src="assets/d3.png" width="300"/>
 <img src="assets/d4.png" width="300"/>
+</p>
 <br><br>
+<p>
 <img src="assets/d5.png" width="300"/>
 <img src="assets/d6.png" width="300"/>
+</p>
 <br><br>
+<p>
 <img src="assets/d7.png" width="300"/>
 <img src="assets/d8.png" width="300"/>
-<br><br><div class="page-br"></div>
+</p>
+<br><br>
+<div class="page-br"></div>
 
 - TODO
 
@@ -160,7 +177,6 @@ by Wiggel
 <img src="assets/d13.png" width="300"/>
 <img src="assets/d14.png" width="300"/>
 <br><br>
-
 
 ### Assigning Digits
 
