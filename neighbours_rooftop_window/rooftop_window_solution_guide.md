@@ -163,20 +163,25 @@ by Wiggel
 <img src="assets/d7.png" width="400"/>
 <img src="assets/d8.png" width="400"/>
 </p>
-<br><br>
-<div class="page-br"></div>
+<br><br><div class="page-br"></div>
 
 - TODO
 
+<p>
 <img src="assets/d9.png" width="400"/>
 <img src="assets/d10.png" width="400"/>
+</p>
 <br><br>
+<p>
 <img src="assets/d11.png" width="400"/>
 <img src="assets/d12.png" width="400"/>
+</p>
 <br><br>
+<p>
 <img src="assets/d13.png" width="400"/>
 <img src="assets/d14.png" width="400"/>
-<br><br>
+</p>
+<br><br><div class="page-br"></div>
 
 ### Assigning Digits
 
