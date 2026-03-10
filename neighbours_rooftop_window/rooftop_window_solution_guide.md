@@ -37,3 +37,149 @@ by Wiggel
 <div class="page-br"></div>
 
 ### Initial Deductions
+
+- TODO
+
+<img src="assets/a1.png" width="512"/>
+<br><br><div class="page-br"></div>
+
+- TODO
+
+<img src="assets/a2.png" width="512"/>
+<br><br><div class="page-br"></div>
+
+- TODO
+
+<img src="assets/a3.png" width="512"/>
+<br><br><div class="page-br"></div>
+
+- TODO
+
+<img src="assets/a4.png" width="512"/>
+<br><br><div class="page-br"></div>
+
+### The Diagonal
+
+- TODO
+
+<img src="assets/b1.png" width="512"/>
+<br><br><div class="page-br"></div>
+
+- TODO
+
+<img src="assets/b2.png" width="512"/>
+<br><br><div class="page-br"></div>
+
+- TODO
+
+<img src="assets/b3.png" width="512"/>
+<br><br><div class="page-br"></div>
+
+- TODO
+
+<img src="assets/b4.png" width="512"/>
+<br><br><div class="page-br"></div>
+
+- TODO
+
+<img src="assets/b5.png" width="512"/>
+<br><br><div class="page-br"></div>
+
+- TODO
+
+<img src="assets/b6.png" width="512"/>
+<br><br><div class="page-br"></div>
+
+- TODO
+
+<img src="assets/b7.png" width="512"/>
+<br><br><div class="page-br"></div>
+
+- TODO
+
+<img src="assets/b8.png" width="512"/>
+<br><br><div class="page-br"></div>
+
+- TODO
+
+<img src="assets/b9.png" width="512"/>
+<br><br><div class="page-br"></div>
+
+- TODO
+
+<img src="assets/b10.png" width="512"/>
+<br><br><div class="page-br"></div>
+
+### Grid Geometry
+
+- TODO
+
+<img src="assets/c1.png" width="512"/>
+<br><br><div class="page-br"></div>
+
+- TODO
+
+<img src="assets/c2.png" width="512"/>
+<br><br><div class="page-br"></div>
+
+- TODO
+
+<img src="assets/c3.png" width="400"/>
+<img src="assets/c4.png" width="400"/>
+<br><br>
+<img src="assets/c5.png" width="400"/>
+<img src="assets/c6.png" width="400"/>
+<br><br>
+<img src="assets/c7.png" width="400"/>
+<img src="assets/c8.png" width="400"/>
+<br><br>
+<img src="assets/c9.png" width="400"/>
+<img src="assets/c10.png" width="400"/>
+<br><br>
+<img src="assets/d1.png" width="400"/>
+<img src="assets/d2.png" width="400"/>
+<br><br>
+<img src="assets/d3.png" width="400"/>
+<img src="assets/d4.png" width="400"/>
+<br><br>
+<img src="assets/d5.png" width="400"/>
+<img src="assets/d6.png" width="400"/>
+<br><br>
+<img src="assets/d7.png" width="400"/>
+<img src="assets/d8.png" width="400"/>
+<br><br><div class="page-br"></div>
+
+- TODO
+
+<img src="assets/d9.png" width="400"/>
+<img src="assets/d10.png" width="400"/>
+<br><br>
+<img src="assets/d11.png" width="400"/>
+<img src="assets/d12.png" width="400"/>
+<br><br>
+<img src="assets/d13.png" width="400"/>
+<img src="assets/d14.png" width="400"/>
+<br><br>
+
+
+### Assigning Digits
+
+- TODO
+
+<img src="assets/e1.png" width="512"/>
+<br><br><div class="page-br"></div>
+
+- TODO
+
+<img src="assets/e2.png" width="512"/>
+<br><br><div class="page-br"></div>
+
+- TODO
+
+<img src="assets/e3.png" width="512"/>
+<br><br><div class="page-br"></div>
+
+- TODO
+
+<img src="assets/e4.png" width="512"/>
+<br><br><div class="page-br"></div>
