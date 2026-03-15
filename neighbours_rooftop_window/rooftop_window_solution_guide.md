@@ -216,15 +216,82 @@ by Wiggel
 <img src="assets/e3.png" width="512"/>
 <br><br><div class="page-br"></div>
 
-- We can write down the four outer arrows as equations.
+- We can write down the four outer arrows as equations and solve them.
 
-```
-C = A + E + I
-H = A + C
-B = E + G
-F = B + 2I
+```js
+  C = A + E + I
+  H = A + C
+  B = E + G
+  F = B + 2I
 
-TODO
+  <=>
+
+  F = E + G + 2I
+  H = 2A + E + I
+
+  <=>
+
+  F + H = 2A + 2E + G + 3I
+
+  // Minimize the right side.
+  2*2 + 2*3 + 4 + 3*1 = 4 + 6 + 4 + 3 = 17
+
+  // Maximize the left side.
+  8 + 9 = 17
+
+=>
+
+  I = 1
+  A,E = 2,3
+  G = 4
+  B,C,D = 5,6,7
+  F,H = 8,9
+
+  // We know the value of `A+E`, even if we don't know their order.
+     C = (A + E) + I
+  => C = (2 + 3) + 1 = 6
+
+=>
+
+  I = 1
+  A,E = 2,3
+  G = 4
+  C = 6
+  B,D = 5,7
+  F,H = 8,9
+
+  // There is only one pair of digits from `(BD, FH)`, which has a difference of 2.
+     F = B + 2I
+  => F = B + 2
+  => F = 9, B = 7
+
+=>
+
+  I = 1
+  A,E = 2,3
+  G = 4
+  D = 5
+  C = 6
+  B = 7
+  H = 8
+  F = 9
+
+  // Resolving `AE` is easy, because we know all other values.
+     H = A + C
+  => 8 = A + 6
+  => A = 2
+
+=>
+
+  I = 1
+  A = 2
+  E = 3
+  G = 4
+  D = 5
+  C = 6
+  B = 7
+  H = 8
+  F = 9
 ```
 
 <img src="assets/e4.png" width="512"/>
